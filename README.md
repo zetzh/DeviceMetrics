@@ -1,2 +1,2 @@
 # DeviceMetrics
-Visit http://devicemetrics.modlearn.club to see the screen width of your device
+Visit http://zetzh.github.io/devicemetrics to see the screen width of your device
